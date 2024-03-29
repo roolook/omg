@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:05:13	112/112	---MC-	200	added ('OK')	text/html	date:Thu,%2028%20Mar%202024%2020:58:22%20GMT	https://www.crazygames.com/robots.txt		(from )
+19:05:13	292013/292013	---MCZ	200	added ('OK')	text/html	date:Thu,%2028%20Mar%202024%2023:05:13%20GMT	https://www.crazygames.com/game/1v1-lol	C:/My%20Web%20Sites/1v1%20lol%20crazy%20games%20only/www.crazygames.com/game/1v1-lol.html	(from )
